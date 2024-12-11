@@ -1,6 +1,6 @@
 # Ujjwal's Portfolio
 
-#[Project 1: HR Analytis - Python Visualization](https://github.com/ujjwal150297/HR-Analytics---Visualization.git)
+#[Project 1: HR Analytics - Python Visualization](https://github.com/ujjwal150297/HR-Analytics---Visualization.git)
 
 * Data Visualization using libraries like Matplotlib and Seaborn.
 
